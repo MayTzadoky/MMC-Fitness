@@ -6,12 +6,22 @@ public class User extends Subscriber{
     private String phoneNumber;
     private String email;
 
-    public User(String firstName, String lastName, String phoneNumber, String email) {
+    public User(Integer userId, Integer age, Float height, Float weight, Integer workoutAmount, Float targetFatPercentage, Float targetWeight, String firstName, String lastName, String phoneNumber, String email) {
+        super(userId, age, height, weight, workoutAmount, targetFatPercentage, targetWeight);
         this.firstName = firstName;
         this.lastName = lastName;
         this.phoneNumber = phoneNumber;
         this.email = email;
     }
+
+
+
+    /*public User(String firstName, String lastName, String phoneNumber, String email) {
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.phoneNumber = phoneNumber;
+        this.email = email;
+    }*/
 
     public String getFirstName() {
         return firstName;
