@@ -22,7 +22,7 @@ public class LightweightLoginServlet extends HttpServlet {
     // ( can be fetched from request.getContextPath() ) and then the 'absolute' path from it.
     // Each method with it's pros and cons...
     //private final String CHAT_ROOM_URL = "pages/chatroom/chatroom.html";
-    private final String LANDING_PAGE_URL = "pages/timeTableMain/timeTableMain.html";
+    private final String LANDING_PAGE_URL = "pages/mainPageSubscriber/mainPageSubscriber.html";
     private final String SIGN_UP_URL = "../signup/signup.html";
     private final String LOGIN_ERROR_URL = "/pages/loginerror/login_attempt_after_error.jsp";  // must start with '/' since will be used in request dispatcher...
     /**

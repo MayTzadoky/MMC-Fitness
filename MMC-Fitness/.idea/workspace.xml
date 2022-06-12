@@ -7,47 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4f085edf-814c-4b1b-bf2a-46b6f65c15ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Logic.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MMC_Fitness_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/google_gson_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MMC_Fitness/src/app/servlets/MainPageSubscriberServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MMC_Fitness/web/pages/mainPageSubscriber/mainPageSubscriber.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MMC_Fitness/web/pages/mainPageSubscriber/mainPageSubscriber.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MMC_Fitness/web/pages/mainPageSubscriber/mainPageSubscriber.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logic/src/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/Chat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logic/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logic/src/Nutritionist.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/Nutritionist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logic/src/Subscriber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/Subscriber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logic/src/SubscriberToMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/SubscriberToMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logic/src/SubscriberToWorkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/SubscriberToWorkout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logic/src/SystemEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/SystemEvents.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logic/src/Trainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/Trainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logic/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logic/src/Workout.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/Workout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DB_Handler/ConnectDB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Chat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Menu$type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Nutritionist$seniority.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Nutritionist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Subscriber$dietaryLimitations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Subscriber$gender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Subscriber$physicalLimitations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Subscriber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/SubscriberToMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/SubscriberToWorkout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/SystemEvents.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Trainer$seniority.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Trainer$specialty.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Trainer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Workout$focus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Workout$type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Logic/Workout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UserInterfaceWeb/UserInterfaceWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MMC_Fitness/MMC_Fitness.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UserInterfaceWeb/web/LoginPage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UserInterfaceWeb/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../UserInterfaceWeb/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MMC_Fitness/src/app/servlets/LightweightLoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/MMC_Fitness/src/app/servlets/LightweightLoginServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +24,7 @@
       <list>
         <option value="HTML File" />
         <option value="Class" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -85,7 +51,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/3rd/google-gson-2.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MMC_Fitness/web" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.39033458" />
@@ -93,14 +59,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\movadia\Desktop\final_project\MMC-Fitness\MMC-Fitness\MMC_Fitness\src\app" />
       <recent name="C:\Users\movadia\Desktop\final_project\MMC-Fitness\MMC-Fitness\MMC_Fitness\web" />
+      <recent name="C:\Users\movadia\Desktop\final_project\MMC-Fitness\MMC-Fitness\MMC_Fitness\src\app" />
       <recent name="C:\Users\movadia\Desktop\final_project\MMC-Fitness\MMC-Fitness\MMC_Fitness\src" />
       <recent name="C:\Users\movadia\Desktop\פרוייקט גמר\MMC-Fitness\MMC-Fitness\UserInterfaceWeb\src" />
       <recent name="C:\Users\movadia\Desktop\פרוייקט גמר\MMC-Fitness\MMC-Fitness" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\movadia\Desktop\final_project\MMC-Fitness\MMC-Fitness\MMC_Fitness\web\pages\mainPageSubscriber" />
       <recent name="C:\Users\movadia\Desktop\פרוייקט גמר\MMC-Fitness\MMC-Fitness" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="app.servlets" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.23">
@@ -240,7 +210,7 @@
       <updated>1651947392948</updated>
       <workItem from="1651947395193" duration="5439000" />
       <workItem from="1654966683827" duration="2743000" />
-      <workItem from="1654969476922" duration="10181000" />
+      <workItem from="1654969476922" duration="16468000" />
     </task>
     <servers />
   </component>
