@@ -1,17 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MMC_Fitness:war exploded" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="4f085edf-814c-4b1b-bf2a-46b6f65c15ba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DB_Handler/DB_Handler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DB_Handler/src/ConnectDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Logic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/MMC_Fitness_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/google_gson_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logic/Logic.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logic/src/Trainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Trainer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logic/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MMC-Fitness.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MMC-Fitness.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logic/src/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logic/src/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logic/src/Nutritionist.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/Nutritionist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logic/src/Subscriber.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/Subscriber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logic/src/SubscriberToMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/SubscriberToMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logic/src/SubscriberToWorkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/SubscriberToWorkout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logic/src/SystemEvents.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/SystemEvents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logic/src/Trainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/Trainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logic/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logic/src/Workout.java" beforeDir="false" afterPath="$PROJECT_DIR$/Logic/src/Info/Workout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DB_Handler/ConnectDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Chat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Menu$type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Nutritionist$seniority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Nutritionist.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Subscriber$dietaryLimitations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Subscriber$gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Subscriber$physicalLimitations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Subscriber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/SubscriberToMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/SubscriberToWorkout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/SystemEvents.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Trainer$seniority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Trainer$specialty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Trainer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Workout$focus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Workout$type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Logic/Workout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserInterfaceWeb/UserInterfaceWeb.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MMC_Fitness/MMC_Fitness.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserInterfaceWeb/web/LoginPage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserInterfaceWeb/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UserInterfaceWeb/web/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,12 +57,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="28qc7Hcp7ff40nNFDam8aqDzNnC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -35,21 +79,31 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Logic/src" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/3rd/google-gson-2.1" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.32261115" />
+    <property name="project.structure.side.proportion" value="0.39033458" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\movadia\Desktop\MMC-Fitness\MMC-Fitness\Logic\src" />
+      <recent name="C:\Users\movadia\Desktop\final_project\MMC-Fitness\MMC-Fitness\MMC_Fitness\src\app" />
+      <recent name="C:\Users\movadia\Desktop\final_project\MMC-Fitness\MMC-Fitness\MMC_Fitness\web" />
+      <recent name="C:\Users\movadia\Desktop\final_project\MMC-Fitness\MMC-Fitness\MMC_Fitness\src" />
+      <recent name="C:\Users\movadia\Desktop\פרוייקט גמר\MMC-Fitness\MMC-Fitness\UserInterfaceWeb\src" />
+      <recent name="C:\Users\movadia\Desktop\פרוייקט גמר\MMC-Fitness\MMC-Fitness" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\movadia\Desktop\פרוייקט גמר\MMC-Fitness\MMC-Fitness" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConnectDB">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8.5.23">
     <configuration name="ConnectDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConnectDB" />
       <module name="DB_Handler" />
@@ -64,20 +118,110 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.23" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.23" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080//MMC_Fitness/" />
+      <deployment>
+        <artifact name="MMC_Fitness:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/MMC_Fitness" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="239b8fb1-272c-42dc-98b4-4cf64d3bceff" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="16668" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="MMC_Fitness:war exploded" />
+        </option>
       </method>
     </configuration>
     <list>
       <item itemvalue="Application.Connection_DB" />
       <item itemvalue="Application.ConnectDB" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.23" />
     </list>
     <recent_temporary>
       <list>
@@ -95,6 +239,8 @@
       <option name="presentableId" value="Default" />
       <updated>1651947392948</updated>
       <workItem from="1651947395193" duration="5439000" />
+      <workItem from="1654966683827" duration="2743000" />
+      <workItem from="1654969476922" duration="10181000" />
     </task>
     <servers />
   </component>
@@ -111,6 +257,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -135,6 +282,20 @@
           <line>23</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MMC_Fitness/src/app/servlets/LightweightLoginServlet.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MMC_Fitness/src/app/servlets/LoginServlet.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.nio.file.InvalidPathException" package="java.nio.file" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
