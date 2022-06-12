@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Time Table Calculator</title>
+    <script src="../../common/jquery-2.0.3.min.js"></script>
+    <script src="../../common/context-path-helper.js"></script>
+    <script src="mainPageSubscriber.js"></script>
+    <link rel="stylesheet" href="../../common/bootstrap.min.css">
+    <link rel="stylesheet" href="mainPageSubscriber.css">
+</head>
+<body>
+<div class="toolBar">
+    <div class="toolbarContent">
+        <a href="../../app/logout" class="logoutButton">Logout</a>
+        <span class="userName" id="userName"></span>
+        <span class="logoSpan">
+            <img src="../../common/images/timeTable1.jpg" class="image">
+        </span>
+    </div>
+</div>
+<div class="appBody">
+    <div class="appBodyContent">
+        <form id="uploadForm" action="fileUpload" enctype="multipart/form-data" method="POST">
+            <span>Upload File:</span>
+            <br>
+            <input class="button" type="file" name="file1"><br>
+            <br>
+            <input class="button" type="Submit" value="Upload File"><br>
+        </form>
+        <div id="result">
+        </div>
+
+        <table class="propertiesTable">
+            <thead>
+            <th scope="col">#</th>
+            <th scope="col">Xml name</th>
+            <th scope="col">User name</th>
+            <th scope="col">Days count</th>
+            <th scope="col">Hours count</th>
+            <th scope="col">Classes</th>
+            <th scope="col">Teachers</th>
+            <th scope="col">Subjects</th>
+            <th scope="col">Hard rules</th>
+            <th scope="col">Soft rules</th>
+            <th scope="col">Solvers count</th>
+            <th scope="col">Max fitness value</th>
+            <th scope="col">Run Time Table</th>
+            </thead>
+            <tbody class="tableBody">
+            </tbody>
+        </table>
+        <div class="usersDiv">
+            <table class="usersTable">
+                <thead>
+                <th>Users online:</th>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+</html>
