@@ -8,6 +8,14 @@
   <component name="ChangeListManager">
     <list default="true" id="4f085edf-814c-4b1b-bf2a-46b6f65c15ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MMC_Fitness/MMC_Fitness.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MMC_Fitness/MMC_Fitness.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MMC_Fitness/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MMC_Fitness/web/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MMC_Fitness/web/pages/mainPageSubscriber/mainPageSubscriber.css" beforeDir="false" afterPath="$PROJECT_DIR$/MMC_Fitness/web/pages/mainPageSubscriber/mainPageSubscriber.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MMC_Fitness/web/pages/mainPageSubscriber/mainPageSubscriber.html" beforeDir="false" afterPath="$PROJECT_DIR$/MMC_Fitness/web/pages/mainPageSubscriber/mainPageSubscriber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MMC_Fitness/web/pages/mainPageSubscriber/mainPageSubscriber.js" beforeDir="false" afterPath="$PROJECT_DIR$/MMC_Fitness/web/pages/mainPageSubscriber/mainPageSubscriber.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MMC_Fitness_war_exploded/pages/mainPageSubscriber/mainPageSubscriber.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MMC_Fitness_war_exploded/pages/mainPageSubscriber/mainPageSubscriber.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MMC_Fitness_war_exploded/pages/mainPageSubscriber/mainPageSubscriber.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MMC_Fitness_war_exploded/pages/mainPageSubscriber/mainPageSubscriber.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/MMC_Fitness_war_exploded/pages/mainPageSubscriber/mainPageSubscriber.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/MMC_Fitness_war_exploded/pages/mainPageSubscriber/mainPageSubscriber.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,10 +55,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/MMC_Fitness/web" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.22256571" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -205,7 +213,7 @@
       <updated>1651947392948</updated>
       <workItem from="1651947395193" duration="5439000" />
       <workItem from="1654966683827" duration="2743000" />
-      <workItem from="1654969476922" duration="18033000" />
+      <workItem from="1654969476922" duration="28569000" />
     </task>
     <servers />
   </component>
