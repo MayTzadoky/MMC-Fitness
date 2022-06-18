@@ -1,3 +1,4 @@
+
 .toolBar {
     height: 50px;
     background: rgb(255 255 255 / 15%);
@@ -23,3 +24,51 @@
     font-size: 20px;
 }
 
+#userData{
+    height: 200px;
+}
+
+#user_details_container{
+    z-index: 1;
+    position: relative;
+}
+
+#user_details_container.appBodyContent {
+    width: unset;
+    margin-top: 110px;
+    white-space: normal;
+    overflow: hidden;
+    padding: 10px 2px;
+    text-align: center;
+    max-width: 1300px;
+
+}
+.cat_elipse:first-child{
+    margin-left: 18px;
+}
+
+.cat_elipse.pr{
+    border-radius: 11vw!important;
+}
+
+.cat_elipse{
+    height: 22.3vw;
+    width: 30vw;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    max-width: unset;
+    padding: 6px;
+    display: inline-block;
+    cursor: pointer;
+    vertical-align: top;
+}
+
+.appBodyContent{
+    background-color: rgba(255, 255, 255, 0.45);
+}
+
+.userDetails{
+    line-height: 3;
+    font-weight: 600;
+
+}
