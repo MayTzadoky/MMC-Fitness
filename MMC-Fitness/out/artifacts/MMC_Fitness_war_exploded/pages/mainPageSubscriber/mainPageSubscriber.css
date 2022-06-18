@@ -1,7 +1,7 @@
 
 .toolBar {
     height: 50px;
-    background: rgb(255 255 255 / 15%);
+    background: #333;
 }
 
 .toolbarContent {
@@ -31,6 +31,8 @@
 #user_details_container{
     z-index: 1;
     position: relative;
+    background-color: rgba(255, 255, 255, 0.45);
+    height: 150px;
 }
 
 #user_details_container.appBodyContent {
@@ -52,7 +54,6 @@
 }
 
 .cat_elipse{
-    height: 22.3vw;
     width: 30vw;
     box-sizing: border-box;
     margin-bottom: 20px;
@@ -64,11 +65,44 @@
 }
 
 .appBodyContent{
-    background-color: rgba(255, 255, 255, 0.45);
+
 }
 
 .userDetails{
     line-height: 3;
     font-weight: 600;
 
+}
+#Fitness_container{
+    z-index: 1;
+    position: relative;
+    height: 500px;
+    text-align: center;
+}
+.board_container{
+    background-color: rgba(255, 255, 255, 0.79);
+    outline: #2e6da4 solid medium;
+    display: inline-block;
+    width: 40%;
+    height: 300px;
+}
+
+.board_headline{
+    outline: #2e6da4 solid medium;
+    color: rgba(105,163,213,0.76);
+
+}
+
+.table_headlines{
+    color: black;
+    font-weight: 600;
+    font-size: medium;
+}
+
+.board_container.training{
+    margin-left: 20px;
+}
+
+.board_container.menu{
+    margin-left: 40px;
 }
